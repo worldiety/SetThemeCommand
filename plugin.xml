@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+    <label>Set theme command</label>
+
+    <version>0.0.1</version>
+    <link>https://www.worldiety.de</link>
+    <author>Thomas Riedel</author>
+    <description>Sets a theme by executing the command wdy:theme:set</description>
+
+    <changelog version="0.0.1">
+        <changes>Initiale Version</changes>
+    </changelog>
+</plugin>
